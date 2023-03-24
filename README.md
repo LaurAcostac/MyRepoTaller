@@ -15,3 +15,6 @@ DesarrolladorTres
 Darle funcionalidad al botón "Sumar"
 Darle funcionalidad al botón "Restar"
 Darle funcionalidad al botón "Multiplicar"
+
+MODIFICACIONES DESARROLLADOR UNO
+se creó un documento html con la estructura de la calculadora para tener una base

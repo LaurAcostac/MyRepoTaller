@@ -1,0 +1,17 @@
+body{
+    width: 100%;
+    display:flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 100vh;
+    background-color: tomato;
+    flex-wrap: wrap;
+
+}
+div {
+    border: 2px solid black;
+    width: 10cm;
+    height: 10cm;
+    text-align: center;
+    background-color: rosybrown;
+}

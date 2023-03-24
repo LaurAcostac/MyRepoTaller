@@ -21,3 +21,6 @@ se creó un documento html con la estructura de la calculadora para tener una ba
 
 MODIFICACIONES DESARROLLADOR DOS
 se creó un documento css con los estilos para la calculadora, de este modo se le dará estética.
+
+MODIFICACIONES DESARROLLADOR TRES
+se creó un documento javascript para darle funcionalidad a los botones calculadora

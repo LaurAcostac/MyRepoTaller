@@ -18,3 +18,6 @@ Darle funcionalidad al botón "Multiplicar"
 
 MODIFICACIONES DESARROLLADOR UNO
 se creó un documento html con la estructura de la calculadora para tener una base
+
+MODIFICACIONES DESARROLLADOR DOS
+se creó un documento css con los estilos para la calculadora, de este modo se le dará estética.
